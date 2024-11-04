@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130759707901",
+    "project_id": "entrepreneur-platform-49f11",
+    "storage_bucket": "entrepreneur-platform-49f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130759707901:android:1fb0dcca0819ccaab40294",
+        "android_client_info": {
+          "package_name": "com.example.entreprenuer_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjwdh1xffwuyRlN8z0boqrPa5rxjOHqu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
